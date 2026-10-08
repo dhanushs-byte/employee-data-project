@@ -2,7 +2,7 @@
 
 ## Description
 
-This project demonstrates basic employee data analysis using Python, Pandas, and Matplotlib.
+This project is a simple employee data analysis project using Python, Pandas, and Matplotlib.
 
 ## Technologies Used
 
@@ -10,6 +10,8 @@ This project demonstrates basic employee data analysis using Python, Pandas, and
 - Pandas
 - Matplotlib
 - CSV
+- Git
+- GitHub
 
 ## Dataset
 
@@ -30,7 +32,7 @@ The dataset contains:
 
 ## How to Run
 
-### 1. Install dependencies
+Install the required libraries:
 
 ```bash
 pip install pandas matplotlib
